@@ -12,7 +12,7 @@ Run the following commands to create a new project and Prismic repository.
 # Bootstrap the project with the Prismic CLI
 # You can login with your Prismic account or sign up within this command
 npx prismic-cli@latest theme \
-  --theme-url https://github.com/prismicio-community/gatsby-starter-slicemachine \
+  --theme-url https://github.com/prismicio-community/gatsby-starter-slicemachine-typescript \
   --conf sm.json
 
 # Navigate into the project directory
